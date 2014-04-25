@@ -9,6 +9,8 @@ background: -ms-linear-gradient(top,#F2F2F2,#CCCCCC); /*Internet Explorer*/
 color:#191919;
 }
 
+
+
 a {color: #9933FF;text-decoration:none;}
 a:active{color: #FF6666;}
 a:hover {color: #E8A3FF;}
@@ -78,12 +80,13 @@ height:100%;
 }
 #bigstock {
 /*border-right: 3px solid #E8A3FF;*/
-background: #f2e6ff;
+
 background: -webkit-linear-gradient(center left, #fff, #f2e6ff) no-repeat;  /*Safari */
 background: -o-linear-gradient(center left,#fff, #f2e6ff);  /*For Opera 11.1 to 12.0 */
 background: -moz-linear-gradient(center left, #fff, #f2e6ff);  /*For Firefox 3.6 to 15 */
 background: linear-gradient(center left,#fff, #f2e6ff);  /*Standard syntax */ 
 background: -ms-linear-gradient(center left,#fff,#f2e6ff); /*Internet Explorer*/
+background: #f2e6ff;
 padding-top:20px;
 border-radius:10px;
 -webkit-border-radius:10px;
@@ -92,12 +95,13 @@ padding-bottom:900px;
 }
 
 #flickr {
-background: #faf6ff;
+
 background: -webkit-linear-gradient(center left, #fff, #faf6ff) no-repeat;  /*Safari */
 background: -o-linear-gradient(center left,#fff, #faf6ff);  /*For Opera 11.1 to 12.0 */
 background: -moz-linear-gradient(left, #fff, #faf6ff);  /*For Firefox 3.6 to 15 */
 background: linear-gradient(center left,#fff, #faf6ff);  /*Standard syntax */ 
 background: -ms-linear-gradient(center left,#fff,#faf6ff); /*Internet Explorer*/
+background: #faf6ff;
 margin-top:0px;
 padding-top:6px;
 /*border-left: 3px solid #E8A3FF;*/
