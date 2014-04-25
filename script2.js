@@ -65,7 +65,7 @@ $('div#flickr > img').remove();
    
 	
 	$('#flickr').removeClass('hidden');
-	$('#flickr').prepend('<img src="flickr-logo.jpg" alt="flickr" style="width:150px;height:61px;">');
+	$('#flickr').prepend('<img src="flickr-logo.jpg" alt="flickr" style="width:150px;height:61px;margin-bottom:10px;">');
 	
 	for (y in data.photos.photo) {
 	
