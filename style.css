@@ -59,15 +59,9 @@ div.modal-header, div#flickr-pics{
 	 text-align:center;
 	 
 	 
-      }
+}
 	  
-/*#container{
-background:red !important;
-background-image: url(partition.png);
-background-position: 50% top;
-background-repeat: repeat-x;
-background-size:150%;
-}*/
+
 
 
 
@@ -75,18 +69,16 @@ background-size:150%;
 border-radius:10px;
 -webkit-border-radius:10px;
 -moz-border-radius:10px;
-/*border-top:6px inset #E8A3FF;*/
 height:100%;
 }
 #bigstock {
-/*border-right: 3px solid #E8A3FF;*/
-
+background: #f2e6ff;
 background: -webkit-linear-gradient(center left, #fff, #f2e6ff) no-repeat;  /*Safari */
 background: -o-linear-gradient(center left,#fff, #f2e6ff);  /*For Opera 11.1 to 12.0 */
 background: -moz-linear-gradient(center left, #fff, #f2e6ff);  /*For Firefox 3.6 to 15 */
 background: linear-gradient(center left,#fff, #f2e6ff);  /*Standard syntax */ 
 background: -ms-linear-gradient(center left,#fff,#f2e6ff); /*Internet Explorer*/
-background: #f2e6ff;
+
 padding-top:20px;
 border-radius:10px;
 -webkit-border-radius:10px;
@@ -95,16 +87,15 @@ padding-bottom:900px;
 }
 
 #flickr {
-
+background: #faf6ff;
 background: -webkit-linear-gradient(center left, #fff, #faf6ff) no-repeat;  /*Safari */
 background: -o-linear-gradient(center left,#fff, #faf6ff);  /*For Opera 11.1 to 12.0 */
 background: -moz-linear-gradient(left, #fff, #faf6ff);  /*For Firefox 3.6 to 15 */
 background: linear-gradient(center left,#fff, #faf6ff);  /*Standard syntax */ 
 background: -ms-linear-gradient(center left,#fff,#faf6ff); /*Internet Explorer*/
-background: #faf6ff;
+
 margin-top:0px;
 padding-top:6px;
-/*border-left: 3px solid #E8A3FF;*/
 padding-top:20px;
 border-radius:10px;
 -webkit-border-radius:10px;
@@ -137,7 +128,7 @@ padding-bottom:1489px;
 h1, h2, h3 {text-align:center;}
 
 
-.glossy {  
+.button {  
     width: 100px;  
     height: 30px;  
   

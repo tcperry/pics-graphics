@@ -19,11 +19,6 @@ var account_id = '976933';
 var url;
 var src;
 
-
-
-
-
-	
 	
 	
 	
