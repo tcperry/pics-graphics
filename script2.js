@@ -55,7 +55,7 @@ var src;
 		
 		  
 	   
-	    url = "http://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=fe1aa44d56ad107ca98e03a1c48d4081&tags=" +input+ "&safe_search=1&per_page=40";
+	    url = "https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=fe1aa44d56ad107ca98e03a1c48d4081&tags=" +input+ "&safe_search=1&per_page=40";
  
 $.getJSON(url + "&format=json&jsoncallback=?", function(data){
 

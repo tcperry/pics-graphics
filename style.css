@@ -1,5 +1,5 @@
 body {
-font-family: 'Roboto Condensed', Arial, serif;
+font-family: 'Roboto Condensed', Arial, 'sans-serif';
 background:#D8D8D8;
 background: -webkit-linear-gradient(top, #F2F2F2, #CCCCCC) no-repeat;  /*Safari */
 background: -o-linear-gradient(top,#F2F2F2, #CCCCCC);  /*For Opera 11.1 to 12.0 */
